@@ -50,7 +50,3 @@ This project uses the `src/` directory convention:
 -   `src/components`: Reusable UI components (Board, Row, Keyboard, etc.).
 -   `src/hooks`: Custom hooks (`useWordle` game logic).
 -   `src/lib`: Helper functions and data constants (dictionaries).
-
-## License
-
-MIT
