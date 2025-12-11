@@ -1,6 +1,6 @@
 # Wordle Next
 
-A modern, high-performance clone of the popular Wordle game, built with **Next.js 16**, **Tailwind CSS v4**, and **TypeScript**.
+A hobby project exploring modern web development by recreating the popular [Wordle](https://www.nytimes.com/games/wordle/index.html) game mechanics. Built with **Next.js 16**, **Tailwind CSS v4**, and **TypeScript** for educational purposes.
 
 ![Wordle Preview](public/wordle-preview.png)
 
@@ -50,6 +50,10 @@ This project uses the `src/` directory convention:
 -   `src/components`: Reusable UI components (Board, Row, Keyboard, etc.).
 -   `src/hooks`: Custom hooks (`useWordle` game logic).
 -   `src/lib`: Helper functions and data constants (dictionaries).
+
+## Disclaimer
+
+This is a fan-made hobby project inspired by Josh Wardle's original game (now owned by The New York Times). It is intended solely for learning and demonstration purposes.
 
 ## License
 
