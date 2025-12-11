@@ -2,7 +2,7 @@
 
 A modern, high-performance clone of the popular Wordle game, built with **Next.js 16**, **Tailwind CSS v4**, and **TypeScript**.
 
-![Wordle Preview](https://github.com/user-attachments/assets/placeholder-image.png)
+![Wordle Preview](public/wordle-preview.png)
 
 ## Features
 
